@@ -1,5 +1,5 @@
 <?php
 
-echo 'index';
+echo 'index of gmail';
 
 ?>
